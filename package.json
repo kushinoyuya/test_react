@@ -1,0 +1,23 @@
+{
+  "name": "test_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kushino",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "mysql2": "^2.1.0",
+    "node-gyp": "^6.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "sequelize": "^5.21.7",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.1.1"
+  }
+}
